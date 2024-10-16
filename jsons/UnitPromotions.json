@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Strenght Boost",
+		"uniques": [
+			"[+45]% Strength <when attacking>",
+			"[+50]% Strength <when defending>",
+		]
+	},
+]
