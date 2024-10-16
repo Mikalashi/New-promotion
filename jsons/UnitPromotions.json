@@ -6,4 +6,20 @@
 			"[+50]% Strength <when defending>",
 		]
 	},
+	{
+		"name": "More Defense",
+		"uniques": [
+			"[-5]% Strength <when attacking>",
+			"[+65]% Strength <when defending>",
+		]
+	},
+        {
+		"name": "Vigorous",
+		"uniques": [
+			"[+25]% Strength <when attacking>",
+			"[+28]% Strength <when defending>",
+			"[1] additional attacks per turn",
+			"Ignores Zone of Control"
+		]
+	}
 ]
