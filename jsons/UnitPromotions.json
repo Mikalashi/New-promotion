@@ -3,16 +3,18 @@
 		"name": "Strenght Boost",
 		"uniques": [
 			"[+45]% Strength <when attacking>",
-			"[+50]% Strength <when defending>",
+			"[+50]% Strength <when defending>"
 		]
 	},
+	
 	{
 		"name": "More Defense",
 		"uniques": [
 			"[-5]% Strength <when attacking>",
-			"[+65]% Strength <when defending>",
+			"[+65]% Strength <when defending>"
 		]
 	},
+	
         {
 		"name": "Vigorous",
 		"uniques": [
